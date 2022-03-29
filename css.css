@@ -1,0 +1,6 @@
+.bg-info {
+    background: url(../Aula29-03/img/wallpaper.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
